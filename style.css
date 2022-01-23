@@ -24,11 +24,12 @@ nav {
     
 }
 main { 
-    background-color: rgb(27, 24, 24);
-    height: 2500px;
+    background: color #e1ebe6;
+    height: 1500px;
     margin-left: auto;
     margin-right: auto;
     width: 924px;
+    text-align: center;
 }
 footer { 
     background-color: rgb(23, 40, 116);
@@ -49,13 +50,16 @@ nav a {
     padding-left: 12px;
     padding-right: 12px;
 }
-img { 
-    text-align: center;
-    margin: right 50px;;
+section { 
+    background-color: #f6b400;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+
 }
-p {
-    text-align: center;
-} 
+
+
+ 
 
 
    
