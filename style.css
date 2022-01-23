@@ -1,19 +1,26 @@
 header { 
-    background-color: rgb(221, 46, 46);
-    height: 750px;    
+    background-color: white;
+    height: 250px;    
     margin-left: auto;
     margin-right: auto;
-}
+    width: auto;
+    text-align: center;
+    
+    }
 nav {
     background-color: #e1ebe6;
     height: 600px; 
     margin-left: auto;
     margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
 }
 .container { 
     margin-left: auto;
     margin-right: auto;
-    width: 1024px;
+    width: 924px;
+    
 }
 main { 
     background-color: rgb(12, 11, 11);
@@ -27,3 +34,23 @@ footer {
     margin-right: auto;
     height: 250px;
 }
+table {
+
+}
+h1 {
+    font-size: 30px;
+    color: orange;
+    font-family:poppins;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    font-size: medium;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+image { 
+    min-height: 35opx;
+    min-width: 924px;
+}
+   
