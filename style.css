@@ -5,26 +5,27 @@ header {
     margin-right: auto;
     width: auto;
     text-align: center;
+    image-rendering: auto;
     
     }
 nav {
-    background-color: #e1ebe6;
-    height: 600px; 
+    background-color: white;
+    height: 400px; 
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
     text-align: center;
+    image-rendering: auto ;
 }
 .container { 
     margin-left: auto;
     margin-right: auto;
     width: 924px;
+    font: poppins;
     
 }
 main { 
-    background-color: rgb(12, 11, 11);
-    height: 1500px;
+    background-color: white;
+    height: 950px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -42,7 +43,8 @@ h1 {
     color: orange;
     font-family:poppins;
     text-align: center;
-}
+    padding-top: 15%;
+} 
 nav a {
     text-decoration: none;
     font-size: medium;
