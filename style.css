@@ -36,6 +36,10 @@ footer {
     margin-left: auto;
     margin-right: auto;
     height: 250px;
+    text-align: center;
+    width: 540px;
+    height: auto;
+    margin-left: 13.5%;
 }
 h1 {
     font-size: 30px;
@@ -58,6 +62,12 @@ section {
     width: 540px;
     text-align: center;
     
+}
+div { 
+    font-size: 150%;
+    font-style: poppins;
+    color: #f6b400;
+    font-weight: bold;
 }
 
 
