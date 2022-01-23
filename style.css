@@ -52,10 +52,12 @@ nav a {
 }
 section { 
     background-color: #f6b400;
-    margin-left: auto;
+    margin-left: 13.5%;
     margin-right: auto;
-    height: 500px;
-
+    height: 494px;
+    width: 540px;
+    text-align: center;
+    
 }
 
 
