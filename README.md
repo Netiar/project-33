@@ -1,6 +1,6 @@
  # Portfolio
  
- ##### By Albert Byrone 
+ ##### By netia collins 
  ### It is a description of my resume.
  
  ## Table of Content
